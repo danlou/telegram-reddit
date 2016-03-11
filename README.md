@@ -1,8 +1,6 @@
 # Telegram Bot for Reddit
 
-![](https://raw.githubusercontent.com/danlou/telegram-reddit/master/screenshots/rdtg1.jpg)
-
-![](https://raw.githubusercontent.com/danlou/telegram-reddit/master/screenshots/rdtg2.jpg)
+![](https://raw.githubusercontent.com/danlou/telegram-reddit/master/screenshots/rdtg1.jpg) ![](https://raw.githubusercontent.com/danlou/telegram-reddit/master/screenshots/rdtg2.jpg)
 
 This Telegram bot is the lightest way to explore reddit submissions, from any subreddit of the user's choosing.
 
